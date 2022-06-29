@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elite: Dangerous - Lakon ASP-E1
+* source:	https://sketchfab.com/3d-models/elite-dangerous-lakon-asp-e1-1b58a34d7da24355877a692b0342e025
+* author:	Dushess (https://sketchfab.com/Dushess)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elite: Dangerous - Lakon ASP-E1" (https://sketchfab.com/3d-models/elite-dangerous-lakon-asp-e1-1b58a34d7da24355877a692b0342e025) by Dushess (https://sketchfab.com/Dushess) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
